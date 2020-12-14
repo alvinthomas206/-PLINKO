@@ -16,7 +16,7 @@ function setup() {
   engine = Engine.create();
   world = engine.world;
   
-  ground1 =new Ground(240,800,480,20)
+  ground1 =new Ground(240,790,480,20)
   boder1=new boder(240,800,500,20)
   boder2=new boder(240,0,500,20)
   boder3=new boder(0,400,20,800)
